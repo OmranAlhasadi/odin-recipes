@@ -1,0 +1,1 @@
+This project is meant to demonstrate my new found basic html skills (using image sourcing and making lists) via building a simple recipe website.
